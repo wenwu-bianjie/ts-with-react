@@ -1,0 +1,11 @@
+{
+  "editor.tabSize": 2,
+  "eslint.workingDirectories": [],
+  "eslint.validate": [
+    "javascript",
+    "typescript",
+    "javascriptreact",
+    "typescriptreact",
+  ],
+  "eslint.format.enable": true,
+}
